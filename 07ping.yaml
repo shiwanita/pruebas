@@ -1,6 +1,0 @@
----
-- name: ping a los hosts
-  hosts: all
-  tasks:
-   - name: ping
-     command: ping 
